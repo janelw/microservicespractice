@@ -1,0 +1,17 @@
+com\infosys\demo\repository\UserRepository.class
+com\infosys\demo\service\RoleService.class
+com\infosys\demo\controller\ProductController.class
+com\infosys\demo\service\UserService.class
+com\infosys\demo\model\CustOrder.class
+com\infosys\demo\model\Role.class
+com\infosys\demo\service\OrderService.class
+com\infosys\demo\controller\RoleController.class
+com\infosys\demo\service\ProductService.class
+com\infosys\demo\DemoApplication.class
+com\infosys\demo\controller\OrderController.class
+com\infosys\demo\controller\UserController.class
+com\infosys\demo\model\Product.class
+com\infosys\demo\model\User.class
+com\infosys\demo\repository\ProductRepository.class
+com\infosys\demo\repository\RoleRepository.class
+com\infosys\demo\repository\OrderRepository.class
