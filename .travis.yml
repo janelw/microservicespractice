@@ -1,8 +1,8 @@
 language: java 
 jdk: 
     - openjdk12
-before_install:
-    - cd java   
+exclude:
+    - ant
 after_success:
     - mvn coveralls:report
 
