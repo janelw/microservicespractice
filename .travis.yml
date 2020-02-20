@@ -1,6 +1,9 @@
 language: java 
 jdk: 
     - openjdk12
-
+before_install:
+    - cd java   
+after_success:
+    - mvn coveralls:report
 
     
